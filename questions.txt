@@ -1,0 +1,25 @@
+What is Python?
+Name some of the features of Python.
+What is the purpose of PYTHONPATH environment variable?
+What is the purpose of PYTHONSTARTUP environment variable?
+What is the purpose of PYTHONCASEOK environment variable?
+Is python a case sensitive language?
+What are the supported data types in Python?
+What is the output of print str if str = 'Hello World!'?
+What are tuples in Python?
+What is the difference between tuples and lists in Python?
+What are Python's dictionaries?
+How will you get all the keys from the dictionary?
+How will you get all the values from the dictionary?
+How will you convert a string to an int in python?
+How will you convert a string to a long in python?
+How will you convert a string to a float in python?
+How will you convert a object to a string in python?
+How will you convert a object to a regular expression in python?
+How will you convert a String to an object in python?
+How will you convert a string to a tuple in python?
+What is the purpose of // operator?
+What is the purpose of is operator?
+What is the purpose break statement in python?
+What is the purpose pass statement in python?
+How can you get a random number in python?
